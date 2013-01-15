@@ -1,5 +1,6 @@
 .. DANGER::
    FORKED FROM https://bitbucket.org/wnielson/sphinx-natbib
+   WITH CHANGES FROM https://github.com/jterrace/sphinxtr
 
 sphinx-natbib
 =============
