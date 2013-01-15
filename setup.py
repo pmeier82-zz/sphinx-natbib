@@ -8,7 +8,7 @@ if __name__ == '__main__':
         name='sphinx-natbib',
         version='0.1',
         packages=['natbib'],
-        requires=['docutils', 'sphinx', 'pybtex'],
+        install_requires=['docutils', 'sphinx', 'pybtex'],
 
         # metadata
         author='Weston Nielson',
