@@ -8,7 +8,7 @@ if __name__ == '__main__':
         name='sphinx-natbib',
         version='0.1',
         packages=['natbib'],
-        requires=['sphinx'],
+        requires=['sphinx', 'pybtex'],
 
         # metadata
         author='W. Nielson',
