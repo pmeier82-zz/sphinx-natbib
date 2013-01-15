@@ -1,4 +1,5 @@
-FORKED FROM https://bitbucket.org/wnielson/sphinx-natbib
+.. DANGER::
+   FORKED FROM https://bitbucket.org/wnielson/sphinx-natbib
 
 sphinx-natbib
 =============
